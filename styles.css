@@ -1,0 +1,27 @@
+body  {
+font-family: sans-serif;
+}   
+
+h1  {
+    background-color: rgb(102, 95, 197);
+    color: white;
+    font-size: 48px;
+    width: 500px;
+    text-align: center;
+    padding: 48px 8px;
+    margin: auto;
+}
+
+ul  {
+    width: 450px;
+    background-color: beige;
+    padding: 16px 36px;
+    margin-top: 200px;
+    margin-left: 15px;
+    font-size: 28px;
+}  
+
+li  {
+    font-style: italic;
+    margin: 4px;
+}
